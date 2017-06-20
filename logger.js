@@ -1,5 +1,6 @@
 import { _ }            from 'meteor/underscore';
 import { Meteor }       from 'meteor/meteor';
+import { Accounts }     from 'meteor/accounts-base';
 import { ReactiveVar }  from 'meteor/reactive-var';
 import { check, Match } from 'meteor/check';
 
